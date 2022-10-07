@@ -1,0 +1,83 @@
+CSS Selectors
+/* Name Selector */
+/* h1{
+    color:red;
+    background-color:black;
+} */
+/* ID selector */
+/* #heading {
+    color:rgb(61, 165, 42);
+} */
+/* Class selector */
+/* .orm input{
+    background-color: aqua;
+}
+form input:hover {
+    background-color: skyblue;
+}
+form input:focus {
+    background-color: red;
+}
+form input::placeholder {
+    color :red;
+    font: size 15px;
+}
+h1::first-letter{
+    font-size: 50px;
+    color:blue
+}
+p::before {
+    content: 'Hey there';
+    color:blue;
+    font-size: 20px;
+}
+input[:placeholder] {
+    background-color:aqua;
+}style{
+    color:tomato;
+} */
+/* .font {
+    font-size: 20px;
+} */
+/* Grouping selector */
+/* lebel,#heading,.style{
+    color: blue;
+    front-size: 25px; */
+}
+/* universel selector */
+/* *{
+    color:blue;
+    front-size: 25px;
+} */
+/* h1 {
+    color:aqua;
+}
+section h1 {
+    color:red;
+} */
+
+/* form input{
+    background-color: aqua;
+}
+form input:hover {
+    background-color: skyblue;
+}
+form input:focus {
+    background-color: red;
+}
+form input::placeholder {
+    color :red;
+    font: size 15px;
+}
+h1::first-letter{
+    font-size: 50px;
+    color:blue
+}
+p::before {
+    content: 'Hey there';
+    color:blue;
+    font-size: 20px;
+}
+input[:placeholder] {
+    background-color:aqua;
+} */
